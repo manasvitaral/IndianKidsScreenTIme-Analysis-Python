@@ -289,13 +289,3 @@ Pairplot analyzing interactions among:
 # 📌 Conclusion
 
 The **Indian Kids Screen Time Analysis** project provides valuable insights into how children engage with digital devices and how screen usage varies across demographics, locations, and device types. Through comprehensive exploratory data analysis and visual storytelling, the project highlights key trends, identifies potential risk factors, and supports informed decisions aimed at promoting healthier digital lifestyles among children and teenagers.
-
----
-
-## 🔮 Future Enhancements
-
-* Machine Learning model to predict excessive screen-time behavior.
-* Health impact risk prediction based on usage patterns.
-* Interactive Power BI/Tableau dashboard.
-* Trend forecasting and behavioral segmentation.
-* Recommendation system for healthy screen-time management.
