@@ -31,8 +31,6 @@ The study leverages Exploratory Data Analysis (EDA) techniques to uncover meanin
 
 # 📂 Data Source
 
-**Source:** Kaggle – *Indian Kids Screen Time Dataset*
-
 The dataset was obtained from Kaggle and contains information on screen-time behavior among Indian children and teenagers. It includes demographic details, device usage patterns, average daily screen time, educational versus recreational usage ratios, health impacts, and geographical classification (urban/rural).
 
 ### Dataset Features
@@ -48,7 +46,7 @@ The dataset was obtained from Kaggle and contains information on screen-time beh
 
 The dataset was used to perform Exploratory Data Analysis (EDA) to identify screen-time trends, behavioral patterns, device preferences, and potential health-related concerns among children and adolescents.
 
-**Kaggle Dataset:** Indian Kids Screen Time Dataset
+**Source:** Kaggle – [*Indian Kids Screen Time Dataset*](https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025)
 
 ---
 
